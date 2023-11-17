@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Talk with me by [Email](xyzmhx@gmail.com) or [Telegram](https://t.me/okuzorakohaku) or [discord](https://discord.gg/jSGMXUr9SP)
+- Talk with me by [Email](xyzmhx@gmail.com) or [Telegram](https://t.me/okuzorakohaku) or [discord](https://discord.gg/Tjcc6G9K8Q)
 
