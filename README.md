@@ -8,8 +8,8 @@ I'm a developer who loves to code for fun. Here's a little about me:
 - 📫 How to reach me: [Email](xyzmhx@gmail.com), [Telegram](https://t.me/okuzorakohaku), [Discord](https://discord.gg/Tjcc6G9K8Q).
 - 😄 Pronouns: [Your Pronouns].
 - ⚡ Fun fact: [Interesting Fact].
-- [leetcode](https://leetcode.com/xy01/)
-- [leecodecn](https://leetcode.cn/u/abenana/)
+- Leetcode: [leetcode](https://leetcode.com/xy01/)
+- Leetcode.cn: [leecode.cn](https://leetcode.cn/u/abenana/)
 
 ![Your GitHub Stats](link-to-your-GitHub-stats)
 
