@@ -1,19 +1,15 @@
-### Hi Im xy 👋
+### Hi, I'm xy 👋
 
-<!--
-**kasugamirai/kasugamirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves to code for fun. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Project Name](link-to-project).
+- 🌱 I’m currently learning [rust].
+- 💬 Ask me about [Topic or Skill].
+- 📫 How to reach me: [Email](xyzmhx@gmail.com), [Telegram](https://t.me/okuzorakohaku), [Discord](https://discord.gg/Tjcc6G9K8Q).
+- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [Interesting Fact].
+- [leetcode](https://leetcode.com/xy01/)
+- [leecodecn](https://leetcode.cn/u/abenana/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- Talk with me by [Email](xyzmhx@gmail.com) or [Telegram](https://t.me/okuzorakohaku) or [discord](https://discord.gg/Tjcc6G9K8Q)
+![Your GitHub Stats](link-to-your-GitHub-stats)
 
-# code for fun
