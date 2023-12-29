@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Im xy 👋
 
 <!--
 **kasugamirai/kasugamirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - Talk with me by [Email](xyzmhx@gmail.com) or [Telegram](https://t.me/okuzorakohaku) or [discord](https://discord.gg/Tjcc6G9K8Q)
 
+# code for fun
