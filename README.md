@@ -1,6 +1,6 @@
 ### Hi, I'm xy 👋
 
-I'm a developer who loves to code for fun. Here's a little about me:
+Code for fun. Here's a little about me:
 
 - 🔭 I’m currently working on [Project Name](link-to-project).
 - 🌱 I’m currently learning [rust].
