@@ -12,4 +12,5 @@ Code for fun. Here's a little about me:
 - Leetcode.cn: [leecode.cn](https://leetcode.cn/u/abenana/)
 
 ![Your GitHub Stats](link-to-your-GitHub-stats)
+![202310152217098](https://github.com/kasugamirai/kasugamirai/assets/36308167/c7c30f61-27a1-4387-b7aa-12ab8c8a6dcc)
 
