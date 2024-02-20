@@ -10,8 +10,3 @@ Code for fun. Here's a little about me:
 - ⚡ Fun fact: [Interesting Fact].
 - Leetcode: [leetcode](https://leetcode.com/xy01/)
 - Leetcode.cn: [leecode.cn](https://leetcode.cn/u/abenana/)
-
-
-
-![202310152217098](https://github.com/kasugamirai/kasugamirai/assets/36308167/c7c30f61-27a1-4387-b7aa-12ab8c8a6dcc)
-
