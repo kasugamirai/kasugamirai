@@ -1,4 +1,4 @@
-### Hi, I'm xy 👋
+### Hi, I'm xy 
 
 Code for fun. Here's a little about me:
 
