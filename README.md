@@ -1,8 +1,7 @@
 ### Hi, I'm xy.
 
-Code for fun. Here's a little about me:
+Here's a little about me:
 
-- 🔭 I’m currently working on [capybastr](https://github.com/open-nostr/capybastr) will be open source soon.
 - 🌱 I’m currently learning [rust].
 - 📫 How to reach me: [Email](xyzmhx@gmail.com), [Telegram](https://t.me/okuzorakohaku), [Discord](https://discord.gg/Tjcc6G9K8Q).
 - Leetcode: [leetcode](https://leetcode.com/xy01/)
