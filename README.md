@@ -8,3 +8,4 @@ Here's a little about me:
 - Leetcode.cn: [leecode.cn](https://leetcode.cn/u/abenana/)
 
 take it easy
+# open to work
